@@ -7,6 +7,15 @@
 - <img src="https://user-images.githubusercontent.com/105888199/183714519-3c3e8ebc-e04a-421f-87d3-ef84b51eaf27.png" alt="Twitter icon" align="center" width="20"> [Twitter]
 - <img src="https://user-images.githubusercontent.com/105888199/183715678-bd9036b1-9f28-44d1-8110-a21a62a55fa5.png" alt="Youtube icon" align="center" width="20"> [Youtube]
 
+<br/>
+<br/>
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YuZesky&show_icons=true&theme=tokyonight) ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuZesky&layout=compact&theme=tokyonight)
+
+</div>
+
 <!-- Links -->
 [Crowdin]: https://crowdin.com/profile/YuZesky
 [OpenSea]: https://opensea.io/YuZesky
